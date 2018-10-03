@@ -1,0 +1,21 @@
+Hello 
+Hola 
+Goodbye 
+Adios 
+ Good
+ Bien
+ Bad
+ Mal
+ Pretty 
+ Bonita
+ Ugly
+ Feo
+ Dog 
+ Perro
+ Cat
+ Gato
+ Fish
+ Pez
+ horse
+ caballo
+ 
